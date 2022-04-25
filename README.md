@@ -1,4 +1,4 @@
-# typing_speed_test
+# Typing speed test bot
 These few lines of code gonna make you always win at typing speed test!
 
 
